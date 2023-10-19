@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         //------------------------------------PROCEDIMIENTOS EXTRAS---------------------------------
-/*
+
 
         //-----------------------------------------EJERCICIO 1---------------------------------------
         //1) Ordenar un array de numeros enteros de menor a mayor
@@ -74,7 +74,7 @@ public class Main {
         //13) lo musmo con shell
         Shell.shell(integerNumber);
         MostrarArray.mostrarArrayInt(integerNumber, 5);
-*/
+
         //-----------------------------------------EJERCICIO 14---------------------------------------
         //14) codifique un algoritmo que permita cargar un array de una dimensión de 20 elementos enteros.
         //Finaliza la carga de los 20 elementos el programa debe solicitar como se desea ordenar el array ASCENDENTE
